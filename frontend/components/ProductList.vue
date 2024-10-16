@@ -1,4 +1,3 @@
-<!-- components/ProductList.vue -->
 <template>
     <div>
       <h1>Lista de Productos</h1>
